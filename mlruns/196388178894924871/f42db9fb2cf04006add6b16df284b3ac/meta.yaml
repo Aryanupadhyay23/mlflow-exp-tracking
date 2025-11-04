@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/196388178894924871/f42db9fb2cf04006add6b16df284b3ac/artifacts
+end_time: 1762258656648
+entry_point_name: ''
+experiment_id: '196388178894924871'
+lifecycle_stage: active
+run_id: f42db9fb2cf04006add6b16df284b3ac
+run_name: skillful-lamb-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762258654640
+status: 4
+tags: []
+user_id: dell

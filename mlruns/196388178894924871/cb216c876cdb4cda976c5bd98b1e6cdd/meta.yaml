@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/196388178894924871/cb216c876cdb4cda976c5bd98b1e6cdd/artifacts
+end_time: 1762259580531
+entry_point_name: ''
+experiment_id: '196388178894924871'
+lifecycle_stage: active
+run_id: cb216c876cdb4cda976c5bd98b1e6cdd
+run_name: industrious-yak-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259579812
+status: 3
+tags: []
+user_id: dell

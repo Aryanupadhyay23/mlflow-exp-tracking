@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/196388178894924871/66537288ebac4419a18837da35bb81f8/artifacts
+end_time: 1762260084742
+entry_point_name: ''
+experiment_id: '196388178894924871'
+lifecycle_stage: active
+run_id: 66537288ebac4419a18837da35bb81f8
+run_name: upset-smelt-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762260075776
+status: 3
+tags: []
+user_id: dell
